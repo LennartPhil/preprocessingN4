@@ -4,7 +4,7 @@
 
 
 # BrainLes-Preprocessing
-`BrainLes preprocessing` is a comprehensive tool for preprocessing tasks in biomedical imaging, with a focus on (but not limited to) multi-modal brain MRI. It can be used to build to build modular preprocessing pipelines:
+`BrainLes preprocessing` is a comprehensive tool for preprocessing tasks in biomedical imaging, with a focus on (but not limited to) multi-modal brain MRI. It can be used to build modular preprocessing pipelines:
 
 This includes **normalization**, **co-registration**, **atlas registration** and **skulstripping / brain extraction**.
 
